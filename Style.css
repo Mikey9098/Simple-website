@@ -56,5 +56,58 @@ div {
   border: 3px solid;
   padding: 20px;
   color: #87ceeb;
-  margin: 15px  ;
+  margin: 15px;
+}
+.about {
+  background-color: #daa520;
+  position: relative;
+  color: white;
+  border: 3px solid #b8860b;
+  margin: 20px;
+  padding: 20px;
+}
+.navi {
+  background-color: #f0e68c;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  padding: 15px;
+  border-bottom: 2px solid #daa520;
+}
+.navi a {
+  margin-right: 20px;
+  padding: 8px 15px;
+  border: 1px solid;
+  background-color: white;
+  text-decoration: none;
+  color: #b8860b;
+}
+
+.lemon {
+  ackground-color: white;
+  position: relative;
+  color: black;
+  border: 3px solid gray;
+  margin: 20px;
+  padding: 20px;
+}
+.para {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  line-height: 1.6;
+  border: 2px solid #daa520;
+  padding: 20px;
+  background-color: #fffacd;
+}
+.home {
+  background-color: #fff8dc;
+}
+.img2 {
+  border-color: #f0e68c;
+  border: 3px solid;
+  padding: 20px;
+  color: #f0e68c;
+  margin: 15px;
 }
